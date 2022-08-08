@@ -5,7 +5,7 @@ Destroy your skills by killing technologies.
 1. 	mkdir destroyskills
 2. 	git remote -v
 3. 	git init
-## 	Add/Modify files
+---	Add/Modify files
 4. 	git status
 5. 	git remote add origin git@github.com:prasad-rtns/destroyskills.git
 6. 	git add -A

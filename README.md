@@ -5,7 +5,9 @@ Destroy your skills by killing technologies.
 1. 	mkdir destroyskills
 2. 	git remote -v
 3. 	git init
----	Add/Modify files
+
+->	Add/Modify files
+
 4. 	git status
 5. 	git remote add origin git@github.com:prasad-rtns/destroyskills.git
 6. 	git add -A
@@ -15,7 +17,7 @@ Destroy your skills by killing technologies.
 10.	git push --set-upstream origin master
 11.	git pull origin master --allow-unrelated-histories
 
-### Merge to master branch
+## Merge to master branch
 1. 	git checkout master
 2. 	git merge <New branch>
 3. 	git push origin master

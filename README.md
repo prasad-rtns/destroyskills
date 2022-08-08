@@ -14,3 +14,8 @@ Destroy your skills by killing technologies.
 9. 	git config --global user.name "Your Name"
 10.	git push --set-upstream origin master
 11.	git pull origin master --allow-unrelated-histories
+
+# Merge to master branch
+1. 	git checkout master
+2. 	git merge <New branch>
+3. 	git push origin master
